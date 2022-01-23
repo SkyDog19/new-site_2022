@@ -1,0 +1,8 @@
+p { padding: 2px 0; margin: 5px;}
+h2 {padding: 0 0 0 0; margin: 15px 0; color: red;}
+h1 {padding: 0 0 0 0; margin: 20px 0; color: green;}
+body{font-size: 20px;}
+span {
+    color: orange;
+}
+a{color: greenyellow; text-decoration: none; font-size: 30px;}
